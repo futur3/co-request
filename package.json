@@ -27,7 +27,7 @@
     "url": "https://github.com/leukhin/co-request/issues"
   },
   "dependencies": {
-    "request": "*"
+    "request": "2.53.0"
   },
   "licenses": [
     {
